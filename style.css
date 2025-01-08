@@ -1,0 +1,28 @@
+body {
+    background-color: #FFC0CB; 
+}
+
+h2{
+	color:#000000;
+	font-family:'Times New Roman', serif;
+	font-size:250%;
+}
+
+h1{
+	color:#000000;
+	font-family:Georgia, serif;
+	font-size:250%;
+}
+
+p{
+	color:#000000;
+	font-family:'Courier New', monospace;
+	font-size:150%;
+}
+
+li
+{
+	color:#000000;
+	font-family:'Brush Script MT', cursive;
+	font-size:150%;
+}
